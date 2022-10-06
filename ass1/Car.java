@@ -1,0 +1,12 @@
+package week.ass1;
+
+public class Car {
+	public void applyBreak(){
+		System.out.println("applyBreak");
+		}
+	public void soundHorn() {
+		System.out.println("soundHorn");
+		}
+
+
+}
